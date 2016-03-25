@@ -3,3 +3,4 @@ For windows. Use git shell in start my first program. Do:
 https://www.python.org/downloads/ download python 2.7;    
 2.git clone github.com/Julian-s/Project1;  
 3.git pull;   
+4.python.
